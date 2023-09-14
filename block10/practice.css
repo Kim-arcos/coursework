@@ -1,0 +1,22 @@
+p:hover {
+    background-color: orange;               
+ }
+
+li:nth-child(even) {
+    color: green;
+}
+
+<!--HTML-->
+<section> 
+   <heading>Hello World</heading>
+This is the section outside of the header
+</section>
+
+/*CSS*/
+section{
+    height:100;
+  } 
+  
+  heading{
+    height: calc(100% - 15px);
+  }
