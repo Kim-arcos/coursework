@@ -1,0 +1,9 @@
+body{
+    background: rgb(178, 191, 247);
+    display: grid;
+    flex-wrap:wrap
+}
+@media(max-width: 1050px) {
+    margin: 0 auto !important;
+    padding: 0 !important;
+}
