@@ -7,3 +7,16 @@ body{
     margin: 0 auto !important;
     padding: 0 !important;
 }
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
+h1 {
+    color: rgb(6, 6, 20);
+   font-family: 'Trebuchet MS';
+    
+}
+p {
+    font-size: 30px;
+}
